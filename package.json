@@ -1,0 +1,19 @@
+{
+  "name": "js-pattern",
+  "version": "1.0.0",
+  "description": "js pattern demo",
+  "main": "namespace.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savokiss/js-pattern.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savokiss/js-pattern/issues"
+  },
+  "homepage": "https://github.com/savokiss/js-pattern#readme"
+}
