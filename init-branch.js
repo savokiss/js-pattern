@@ -1,3 +1,4 @@
+// 初始化分支 P253
 var MYAPP = {};
 MYAPP.event = {
   addListener: null,
