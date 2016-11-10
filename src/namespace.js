@@ -1,8 +1,10 @@
+// 命名空间 P252
+
 var APP = {};
 
 APP.dom = {};
 
-APP.dom.Element = function (type, prop) {
+APP.dom.Element = function(type, prop) {
   var tmp = document.createElement(type);
   for (var i in prop) {
     tmp.setAttribute(i, prop[i]);
@@ -10,7 +12,7 @@ APP.dom.Element = function (type, prop) {
   return tmp;
 };
 
-APP.dom.Text = function (txt) {
+APP.dom.Text = function(txt) {
   return document.createTextNode(txt);
 };
 
@@ -30,7 +32,7 @@ APP.dom = {};
 APP.dom.style = {};
 
 // code
-APP.namespace = function (name) {
+APP.namespace = function(name) {
   var parts = name.split('.');
   var current = APP;
   for (var i in parts) {
