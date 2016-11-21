@@ -9,3 +9,6 @@
 - [延迟定义](./src/delay-define.js)
 - [配置对象](./src/config-object.js)
 - [私有属性和方法](./src/private-prop.js)
+- [特权函数] 可以访问对象私有属性的函数
+- [私有函数公有化](./src/private2public.js)
+- [自执行函数](./src/IIFE.js)
