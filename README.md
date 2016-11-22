@@ -3,6 +3,7 @@
 
 > js pattern demo
 
+
 ##　Programming Mode
 - [命名空间](./src/programming-mode/namespace.js)
 - [初始化分支](./src/programming-mode/init-branch.js)
