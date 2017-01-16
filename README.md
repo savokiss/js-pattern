@@ -2,7 +2,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://opensource.org/licenses/MIT "Feel free to contribute.") 
 
 > js pattern demo
-
+> 摘自《JavaScript 面向对象编程指南》
 
 ## Programming Mode
 - [命名空间](./src/programming-mode/namespace.js)
@@ -19,4 +19,5 @@
 ## Design Pattern
 - [单例模式](./src/design-patterns/singleton.js)
 - [工厂模式](./src/design-patterns/factory.js)
-- [装饰起模式](./src/design-patterns/decorator.js)
+- [装饰器模式](./src/design-patterns/decorator.js)
+- [观察者模式](./src/design-patterns/pubsub.js)
